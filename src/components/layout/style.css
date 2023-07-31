@@ -1,0 +1,27 @@
+table {
+    width: 800px;
+}
+
+input[type=text]{
+    width: 175px;
+    height: 25px;
+    border-radius: 4px;
+    /* background-color: grey; */
+   border: 1px solid rgb(207, 206, 206);
+    padding: 5px;
+}
+.add_but{
+    text-align: right;
+}
+.add_but button{
+    background-color: darkgreen;
+    color: #fff;
+}
+hr{
+    width: 800px;
+    height:1px;
+    border-width:0;
+    color:rgb(127, 141, 126);
+    background-color:rgb(105, 116, 97);
+    opacity: 15%;
+}
